@@ -1,5 +1,5 @@
 
-JunctionStore Database Project
+#JunctionStore Database Project
 Overview
 JunctionStore Database Project is a comprehensive relational database solution developed for a retail store environment. The project demonstrates database design principles, data modelling, table relationships, and SQL implementation using MySQL.
 
